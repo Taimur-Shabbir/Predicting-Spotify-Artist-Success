@@ -6,6 +6,10 @@ For this case study, I used a Spotify dataset to predict the success of artists.
 
 The hypothesis is that if Warner Music Group can predict which artists would appear on certain playlists that greatly influence popularity, stream count and future success of an artist *before* they actually appear on such playlists, they would be in an advantageous competitive position by signing such artists before Warner Music Group's competitors do
 
+### Important
+
+This project uses 3 different data files. 2 of these are available in the repository. The last one ('cleaned_data.csv') is too large to be uploaded to Github, and can be found here instead: https://drive.google.com/open?id=1nW2UlZqLxN5dHhMPldJnoJ-C3rgXvfv1
+
 # Approach and Insights
 
 This project is framed as a supervised learning, classification task. The dependent variable is binary and showcases whether or not an artists appears on one or more key playlists. The independent variables and features include age of streamers, geography of streamers, source of streamers, stream count and so on
@@ -28,6 +32,6 @@ Testing my model on the hold-out set resulted in an accuracy of 87%, which is go
 
 - Download the Jupyter notebook
 - Download the data files named cleaned_data.csv, newartists2015onwards.csv and playlists_ids_and_titles.csv\
-- Ensure you import all the required modules. The code for this is already present in the Notebook but a full list of the imports can be found in the requirements.txt file\
-- Change paths to load the data from your local machine once you have downloaded the data files mentioned in point 2\
+- Ensure you import all the required modules. The code for this is already present in the Notebook but a full list of the imports can be found in the requirements.txt file
+- Change paths to load the data from your local machine once you have downloaded the data files mentioned in point 2
 - Run the whole Jupyter Notebook
