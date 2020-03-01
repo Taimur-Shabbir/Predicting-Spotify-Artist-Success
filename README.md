@@ -1,3 +1,7 @@
+# Introduction
+
+I completed this ML project as part of my MSc
+
 # Problem exposition, motivation and understanding
 
 Over the last few years, the music industry has been dominated by digital streaming services, which produce vast amounts of data on listeners and their preferences. This has required major players in the industry to adopt a data driven approach to content delivery in order to stay competitive. Warner Music Group is looking to leverage its rich database to better understand the factors that have the most significant impact on the success of a new artist. This will allow them to optimise the allocation of resources when signing and promoting new artists.
