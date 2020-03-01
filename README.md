@@ -1,4 +1,4 @@
-# Problem exposition, motivation and understanding\
+# Problem exposition, motivation and understanding
 
 Over the last few years, the music industry has been dominated by digital streaming services, which produce vast amounts of data on listeners and their preferences. This has required major players in the industry to adopt a data driven approach to content delivery in order to stay competitive. Warner Music Group is looking to leverage its rich database to better understand the factors that have the most significant impact on the success of a new artist. This will allow them to optimise the allocation of resources when signing and promoting new artists.
 
@@ -26,8 +26,8 @@ Testing my model on the hold-out set resulted in an accuracy of 87%, which is go
 
 # How to run this project
 
-- Download the Jupyter notebook\
+- Download the Jupyter notebook
 - Download the data files named cleaned_data.csv, newartists2015onwards.csv and playlists_ids_and_titles.csv\
 - Ensure you import all the required modules. The code for this is already present in the Notebook but a full list of the imports can be found in the requirements.txt file\
 - Change paths to load the data from your local machine once you have downloaded the data files mentioned in point 2\
-- Run the whole Jupyter Notebook}
+- Run the whole Jupyter Notebook
